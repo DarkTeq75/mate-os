@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Mate!_OS
+Description=Tela de boot do Mate!_OS
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mate-os
+ScriptFile=/usr/share/plymouth/themes/mate-os/mate-os.script

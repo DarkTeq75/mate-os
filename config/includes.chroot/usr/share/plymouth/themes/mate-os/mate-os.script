@@ -1,0 +1,39 @@
+# Tela de boot do Mate!_OS
+# Fundo preto, logo centralizado e arco girando embaixo (estilo Windows 11)
+
+Window.SetBackgroundTopColor(0, 0, 0);
+Window.SetBackgroundBottomColor(0, 0, 0);
+
+W = Window.GetWidth();
+H = Window.GetHeight();
+cx = W / 2;
+cy = H / 2;
+
+# ---- Ajustes (mexa aqui) ----
+logo_escala = 0.6;       # 1.0 = tamanho original; menor = logo menor
+spinner_abaixo = 0.20;   # distancia do spinner ao centro, em fracao da altura da tela
+# -----------------------------
+
+# Logo (texto + cuia), centralizado e reduzido
+logo.original = Image("logo.png");
+logo_w = Math.Int(logo.original.GetWidth() * logo_escala);
+logo_h = Math.Int(logo.original.GetHeight() * logo_escala);
+logo.image = logo.original.Scale(logo_w, logo_h);
+logo.sprite = Sprite(logo.image);
+logo.sprite.SetPosition(cx - logo_w / 2, cy - logo_h / 2 - 20, 10);
+
+# Arco girando (48 quadros), centralizado embaixo do logo
+for (i = 0; i < 48; i++)
+  spinner.frame[i] = Image("spinner-" + i + ".png");
+spinner.sprite = Sprite(spinner.frame[0]);
+spinner.sprite.SetPosition(cx - spinner.frame[0].GetWidth() / 2, cy + H * spinner_abaixo, 10);
+
+step = 0;
+
+fun refresh_callback() {
+  step++;
+  frame = Math.Int(step / 2) % 48;
+  spinner.sprite.SetImage(spinner.frame[frame]);
+}
+
+Plymouth.SetRefreshFunction(refresh_callback);

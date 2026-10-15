@@ -1,0 +1,21 @@
+
+# Arquivos temporários gerados pelo live-build
+/binary/
+/chroot/
+/cache/
+/.build/
+/*.iso
+/*.img
+/*.log
+
+# Metadados gerados pela compilação
+/binary.modified_timestamps
+/chroot.files
+/chroot.packages.install
+/chroot.packages.live
+/live-image-amd64.contents
+/live-image-amd64.files
+/live-image-amd64.packages
+
+# Logs temporários do wget
+/wget-log*
