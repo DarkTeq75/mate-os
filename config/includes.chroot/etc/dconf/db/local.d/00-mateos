@@ -1,8 +1,0 @@
-[org/mate/desktop/background]
-picture-filename='/usr/share/backgrounds/mateos/papel.jpg'
-
-[org/mate/desktop/interface]
-gtk-theme='Adwaita-dark'
-
-[org/mate/Marco/general]
-theme='Arc-Dark'

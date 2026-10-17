@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Instalando: $*"
+sudo apt update && sudo apt install -y "$@" && echo "Instalado com sucesso!" || echo "Deu erro na instalacao."
+read -p "Pressione Enter para fechar "

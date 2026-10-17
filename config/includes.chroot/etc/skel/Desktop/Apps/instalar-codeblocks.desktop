@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Instalar Code::Blocks
+Comment=Instala o Code::Blocks com compilador C e depurador
+Exec=xfce4-terminal -x instalar-app codeblocks build-essential gdb
+Icon=system-software-install
+Terminal=false
