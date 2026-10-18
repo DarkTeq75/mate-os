@@ -2,6 +2,6 @@
 Type=Application
 Name=Instalar LibreOffice
 Comment=Instala o LibreOffice em portugues
-Exec=xfce4-terminal -x instalar-app libreoffice libreoffice-l10n-pt-br libreoffice-help-pt-br
+Exec=mate-terminal -x instalar-app libreoffice libreoffice-l10n-pt-br libreoffice-help-pt-br
 Icon=system-software-install
 Terminal=false
