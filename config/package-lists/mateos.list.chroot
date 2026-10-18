@@ -22,3 +22,4 @@ firmware-realtek
 firmware-atheros
 firmware-brcm80211
 firmware-mediatek
+mate-utils
