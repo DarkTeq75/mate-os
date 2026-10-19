@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>cuiaetux</name>
+    <filename>/usr/share/backgrounds/mateos/cuiaetux.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiacompontinhos</name>
+    <filename>/usr/share/backgrounds/mateos/cuiacompontinhos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiaetuxinvertidos</name>
+    <filename>/usr/share/backgrounds/mateos/cuiaetuxinvertidos.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiaetuxsimples</name>
+    <filename>/usr/share/backgrounds/mateos/cuiaetuxsimples.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiasemtux</name>
+    <filename>/usr/share/backgrounds/mateos/cuiasemtux.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiasimplesdark</name>
+    <filename>/usr/share/backgrounds/mateos/cuiasimplesdark.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiasimpleslight</name>
+    <filename>/usr/share/backgrounds/mateos/cuiasimpleslight.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>tuxsemcuia</name>
+    <filename>/usr/share/backgrounds/mateos/tuxsemcuia.png</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
