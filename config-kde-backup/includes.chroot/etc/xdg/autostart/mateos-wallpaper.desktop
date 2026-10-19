@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Mate!_OS Wallpaper
-Exec=/usr/local/bin/mateos-wallpaper
-NoDisplay=true
-X-KDE-autostart-after=panel

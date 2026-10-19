@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Mate!_OS
-Description=Simple Mate!_OS boot theme
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/mate-os
-ScriptFile=/usr/share/plymouth/themes/mate-os/mate-os.script

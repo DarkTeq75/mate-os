@@ -1,5 +1,0 @@
-#!/bin/bash
-
-if command -v dconf >/dev/null 2>&1; then
-    dconf update
-fi
