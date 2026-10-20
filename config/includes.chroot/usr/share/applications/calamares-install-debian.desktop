@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Instalar Mate!_OS
+GenericName=Instalador
+Exec=calamares-install-debian
+Comment=Instala o Mate!_OS no computador
+Keywords=calamares;system;install;mateos;instalar;installer
+Icon=/usr/share/pixmaps/mateos-install.png
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

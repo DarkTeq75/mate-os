@@ -1,0 +1,33 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,580px
+windowPlacement: center
+strings:
+    productName:         Mate!_OS
+    shortProductName:    Mate!_OS
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       Mate!_OS 1.0
+    shortVersionedName:  Mate!_OS 1.0
+    bootloaderEntryName: MateOS
+    productUrl:          https://github.com/DarkTeq75/mate-os
+    supportUrl:          https://github.com/DarkTeq75/mate-os
+    knownIssuesUrl:      https://github.com/DarkTeq75/mate-os/issues
+    releaseNotesUrl:     https://github.com/DarkTeq75/mate-os
+    donateUrl:           https://github.com/DarkTeq75/mate-os
+sidebar: widget
+navigation: widget
+images:
+    productLogo:         "mateos-logo.png"
+    productIcon:         "mateos-logo.png"
+    productWelcome:      "mateos-logo.png"
+slideshow:               "show.qml"
+style:
+   SidebarBackground:    "#1f2722"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#fbfbfb"
+   SidebarBackgroundCurrent: "#3f7d3a"
+slideshowAPI: 2
