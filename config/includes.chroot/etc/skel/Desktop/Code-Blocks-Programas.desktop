@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Code::Blocks (Programas)
-Exec=codeblocks %U/home/aluno/Documentos/Programas/ola_mundo.c
-Icon=codeblocks
-Terminal=false
-Categories=Development;IDE;

@@ -7,11 +7,11 @@ gtk-theme='Adwaita-dark'
 [org/mate/Marco/general]
 theme='Arc-Dark'
 
-[general]
+[org/mate/panel/general]
 object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0']
 toplevel-id-list=['top']
 
-[objects/clock]
+[org/mate/panel/objects/clock]
 applet-iid='ClockAppletFactory::ClockApplet'
 locked=true
 object-type='applet'
@@ -19,17 +19,17 @@ position=0
 relative-to-edge='end'
 toplevel-id='top'
 
-[objects/clock/prefs]
+[org/mate/panel/objects/clock/prefs]
 custom-format=''
 format='24-hour'
 
-[objects/menu-bar]
+[org/mate/panel/objects/menu-bar]
 locked=true
 object-type='menu-bar'
 position=0
 toplevel-id='top'
 
-[objects/notification-area]
+[org/mate/panel/objects/notification-area]
 applet-iid='NotificationAreaAppletFactory::NotificationArea'
 locked=true
 object-type='applet'
@@ -37,14 +37,14 @@ position=10
 relative-to-edge='end'
 toplevel-id='top'
 
-[objects/object-0]
+[org/mate/panel/objects/object-0]
 applet-iid='WnckletFactory::WindowListApplet'
 locked=true
 object-type='applet'
 position=239
 toplevel-id='top'
 
-[toplevels/top]
+[org/mate/panel/toplevels/top]
 expand=true
 orientation='top'
 screen=0
