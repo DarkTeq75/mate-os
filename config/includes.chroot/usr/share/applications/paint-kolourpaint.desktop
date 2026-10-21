@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Paint (Kolourpaint)
+Comment=Editor de imagens simples, estilo Paint
+Exec=kolourpaint
+Icon=kolourpaint
+Terminal=false
+Categories=Graphics;
