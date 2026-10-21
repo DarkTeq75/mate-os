@@ -1,0 +1,29 @@
+LEIA ANTES DE USAR - Mate!_OS 1.0 (pre-versao)
+
+O QUE FUNCIONA
+- Modo ao vivo (live): o sistema roda direto do pendrive ou da maquina virtual, sem instalar.
+- Wi-Fi, painel, papel de parede, atalhos e programas educacionais.
+
+O QUE AINDA NAO FOI TESTADO
+- O INSTALADOR (Calamares), que instala o sistema no disco, ainda NAO foi testado
+  em nenhum computador real nem em maquina virtual com disco.
+- Ele pode falhar ao configurar o gerenciador de boot (GRUB) em BIOS ou UEFI.
+
+RISCO
+- Instalar em um disco pode APAGAR dados, inclusive de outro sistema (Windows, Linux).
+- Use o instalador SOMENTE em computadores de teste, ou com todos os dados
+  importantes copiados antes para outro lugar.
+
+RECOMENDACAO
+- Para usar agora, rode a ISO no modo ao vivo, que nao altera o disco.
+- Espere a versao 1.0 estavel para instalar no computador principal.
+
+ARQUIVOS
+- live-image-amd64.hybrid.iso: a imagem do sistema.
+- live-image-amd64.hybrid.iso.sha256: soma para conferir se o download nao foi corrompido.
+  Confira com: sha256sum -c live-image-amd64.hybrid.iso.sha256
+
+ORIGEM DAS IMAGENS
+- A logo da cuia e os papeis de parede foram criados para este projeto.
+- A logo do IF (Instituto Federal) e de uso educacional e nao foi autorizada
+  para distribuicao publica. Antes de uma versao oficial, confirme com o instituto.
