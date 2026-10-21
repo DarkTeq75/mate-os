@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+Comment=Plataforma de programacao de placas Arduino
+Exec=mate-terminal -x instalar-app arduino
+Icon=system-software-install
+Terminal=false

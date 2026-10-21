@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=LibreOffice (Microsoft Office)
+Comment=Pacote de escritorio
+Exec=mate-terminal -x instalar-app libreoffice libreoffice-l10n-pt-br
+Icon=system-software-install
+Terminal=false

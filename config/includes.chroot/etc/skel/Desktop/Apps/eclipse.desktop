@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse (site oficial)
+Comment=Abre o site para baixar o Eclipse
+Exec=xdg-open https://www.eclipse.org/downloads/
+Icon=system-software-install
+Terminal=false

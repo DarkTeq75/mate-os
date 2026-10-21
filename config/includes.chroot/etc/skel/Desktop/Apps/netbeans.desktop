@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans (site oficial)
+Comment=Abre o site para baixar o NetBeans
+Exec=xdg-open https://netbeans.apache.org/download/
+Icon=system-software-install
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Git
+Comment=Controle de versoes
+Exec=mate-terminal -x instalar-app git
+Icon=system-software-install
+Terminal=false

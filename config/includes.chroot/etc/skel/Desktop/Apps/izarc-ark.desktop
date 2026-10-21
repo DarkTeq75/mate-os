@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=IZarc (Ark)
+Comment=Compactar e descompactar arquivos
+Exec=mate-terminal -x instalar-app ark
+Icon=system-software-install
+Terminal=false

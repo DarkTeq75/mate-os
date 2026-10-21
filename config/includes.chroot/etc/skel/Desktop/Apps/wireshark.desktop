@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Wireshark
+Comment=Analisador de pacotes de rede
+Exec=mate-terminal -x instalar-app wireshark
+Icon=system-software-install
+Terminal=false

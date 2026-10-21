@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Java JDK (OpenJDK 21)
+Comment=Kit de desenvolvimento Java
+Exec=mate-terminal -x instalar-app openjdk-21-jdk
+Icon=system-software-install
+Terminal=false

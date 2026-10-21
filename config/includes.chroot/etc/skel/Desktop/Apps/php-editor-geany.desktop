@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Editor PHP (Geany)
+Comment=Editor leve com suporte a PHP
+Exec=mate-terminal -x instalar-app geany
+Icon=system-software-install
+Terminal=false

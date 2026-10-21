@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Trackmaker (GPSBabel)
+Comment=Conversao de trilhas GPS
+Exec=mate-terminal -x instalar-app gpsbabel
+Icon=system-software-install
+Terminal=false

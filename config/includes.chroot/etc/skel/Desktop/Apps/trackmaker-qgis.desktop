@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Trackmaker (QGIS)
+Comment=Mapas e dados geograficos
+Exec=mate-terminal -x instalar-app qgis
+Icon=system-software-install
+Terminal=false

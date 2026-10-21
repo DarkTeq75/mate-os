@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Diagram Designer (Dia)
+Comment=Diagramas e fluxogramas
+Exec=mate-terminal -x instalar-app dia
+Icon=system-software-install
+Terminal=false

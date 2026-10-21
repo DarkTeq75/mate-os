@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Dev C++ (Geany)
+Comment=Editor leve para programacao em C
+Exec=mate-terminal -x instalar-app geany
+Icon=system-software-install
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GeoGebra
+Comment=Matematica dinamica
+Exec=mate-terminal -x instalar-app geogebra
+Icon=system-software-install
+Terminal=false

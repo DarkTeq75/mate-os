@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Visual Studio Code (site oficial)
+Comment=Abre o site para baixar o VS Code
+Exec=xdg-open https://code.visualstudio.com/Download
+Icon=system-software-install
+Terminal=false

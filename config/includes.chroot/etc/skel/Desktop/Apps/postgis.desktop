@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=PostGIS
+Comment=Extensao geografica do PostgreSQL
+Exec=mate-terminal -x instalar-app postgresql-postgis
+Icon=system-software-install
+Terminal=false

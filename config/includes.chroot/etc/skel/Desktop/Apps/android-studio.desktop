@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Android Studio (site oficial)
+Comment=Abre o site para baixar o Android Studio
+Exec=xdg-open https://developer.android.com/studio
+Icon=system-software-install
+Terminal=false
