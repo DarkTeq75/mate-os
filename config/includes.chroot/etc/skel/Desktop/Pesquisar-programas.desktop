@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Pesquisar programas
+Comment=Busca os programas da pasta Apps
+Exec=/usr/local/bin/pesquisar-programas
+Icon=system-search
+Terminal=false
+Categories=Utility;

@@ -1,0 +1,12 @@
+#!/bin/sh
+# Abre uma janela de busca com os atalhos da pasta Apps e executa o escolhido
+PASTA="$HOME/Desktop/Apps"
+LISTA=$(for f in "$PASTA"/*.desktop; do
+  n=$(grep -m1 '^Name=' "$f" | cut -d= -f2-)
+  e=$(grep -m1 '^Exec=' "$f" | cut -d= -f2-)
+  printf '%s\t%s\n' "$n" "$e"
+done | sort -f)
+ESCOLHA=$(echo "$LISTA" | cut -f1 | zenity --list --title="Pesquisar programas" --text="Digite o nome do programa (ou role a lista) e escolha:" --column="Programa" --height=500 --width=520)
+[ -z "$ESCOLHA" ] && exit 0
+EXEC=$(echo "$LISTA" | awk -F'\t' -v n="$ESCOLHA" '$1==n {print $2; exit}')
+sh -c "$EXEC" &

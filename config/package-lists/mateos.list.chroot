@@ -25,3 +25,9 @@ firmware-mediatek
 mate-utils
 synaptic
 kolourpaint
+mate-power-manager
+mate-media
+network-manager-applet
+mate-polkit
+caja-open-terminal
+zenity

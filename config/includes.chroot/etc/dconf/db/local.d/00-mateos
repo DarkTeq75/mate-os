@@ -2,13 +2,14 @@
 picture-filename='/usr/share/backgrounds/mateos/cuiaetux.png'
 
 [org/mate/desktop/interface]
-gtk-theme='Adwaita-dark'
+gtk-theme='Mint-Y-Dark'
+icon-theme='Papirus'
 
 [org/mate/Marco/general]
-theme='Arc-Dark'
+theme='Mint-Y-Dark'
 
 [org/mate/panel/general]
-object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0']
+object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'volume-control', 'brightness-control']
 toplevel-id-list=['top']
 
 [org/mate/panel/objects/clock]
@@ -50,5 +51,21 @@ orientation='top'
 screen=0
 size=24
 
-[org/mate/desktop/interface]
-icon-theme='Papirus'
+[org/mate/power-manager]
+icon-policy='present'
+
+[org/mate/panel/objects/volume-control]
+applet-iid='GvcAppletFactory::GvcApplet'
+locked=true
+object-type='applet'
+position=20
+relative-to-edge='end'
+toplevel-id='top'
+
+[org/mate/panel/objects/brightness-control]
+applet-iid='BrightnessAppletFactory::BrightnessApplet'
+locked=true
+object-type='applet'
+position=30
+relative-to-edge='end'
+toplevel-id='top'
