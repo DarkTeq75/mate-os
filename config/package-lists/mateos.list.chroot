@@ -27,7 +27,6 @@ synaptic
 kolourpaint
 mate-power-manager
 mate-media
-network-manager-applet
 mate-polkit
 caja-open-terminal
-zenity
+gnome-software

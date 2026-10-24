@@ -2,11 +2,11 @@
 picture-filename='/usr/share/backgrounds/mateos/cuiaetux.png'
 
 [org/mate/desktop/interface]
-gtk-theme='Mint-Y-Dark'
+gtk-theme='Adwaita-dark'
 icon-theme='Papirus'
 
 [org/mate/Marco/general]
-theme='Mint-Y-Dark'
+theme='Arc-Dark'
 
 [org/mate/panel/general]
 object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'volume-control', 'brightness-control']
