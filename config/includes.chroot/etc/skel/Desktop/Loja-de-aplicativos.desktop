@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Loja de aplicativos
+Comment=Procure e instale programas
+Exec=gnome-software
+Icon=org.gnome.Software
+Terminal=false
+Categories=System;
