@@ -9,7 +9,7 @@ icon-theme='Papirus'
 theme='Arc-Dark'
 
 [org/mate/panel/general]
-object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'volume-control', 'brightness-control']
+object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'brightness-control']
 toplevel-id-list=['top']
 
 [org/mate/panel/objects/clock]
@@ -53,14 +53,6 @@ size=24
 
 [org/mate/power-manager]
 icon-policy='present'
-
-[org/mate/panel/objects/volume-control]
-applet-iid='GvcAppletFactory::GvcApplet'
-locked=true
-object-type='applet'
-position=20
-relative-to-edge='end'
-toplevel-id='top'
 
 [org/mate/panel/objects/brightness-control]
 applet-iid='BrightnessAppletFactory::BrightnessApplet'
