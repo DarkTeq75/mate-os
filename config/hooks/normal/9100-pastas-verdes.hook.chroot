@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+cd /usr/share/icons/Papirus
+for d in */places; do
+  [ -e "$d/folder-green.svg" ] && ln -sf folder-green.svg "$d/folder.svg"
+  [ -e "$d/folder-green-open.svg" ] && ln -sf folder-green-open.svg "$d/folder-open.svg"
+  [ -e "$d/user-green-home.svg" ] && ln -sf user-green-home.svg "$d/user-home.svg"
+done
+exit 0
