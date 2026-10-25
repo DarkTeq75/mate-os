@@ -65,4 +65,44 @@
     <scolor>#3d463d</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiaetuxdark</name>
+    <filename>/usr/share/backgrounds/mateos/cuiaetuxdark.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cuiaetuxdarksimples</name>
+    <filename>/usr/share/backgrounds/mateos/cuiaetuxdarksimples.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>halloween</name>
+    <filename>/usr/share/backgrounds/mateos/halloween.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>natal</name>
+    <filename>/usr/share/backgrounds/mateos/natal.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>pascoa</name>
+    <filename>/usr/share/backgrounds/mateos/pascoa.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d463d</pcolor>
+    <scolor>#3d463d</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
