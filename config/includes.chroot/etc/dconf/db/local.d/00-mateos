@@ -64,3 +64,6 @@ toplevel-id='top'
 
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
+
+[org/mate/caja/desktop]
+home-icon-visible=false
