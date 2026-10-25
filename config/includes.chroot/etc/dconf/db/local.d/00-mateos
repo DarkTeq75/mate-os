@@ -61,3 +61,6 @@ object-type='applet'
 position=30
 relative-to-edge='end'
 toplevel-id='top'
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
