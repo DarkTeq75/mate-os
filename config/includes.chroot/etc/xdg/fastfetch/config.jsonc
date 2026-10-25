@@ -2,6 +2,7 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "file",
+    "printRemaining": false,
     "source": "/etc/xdg/fastfetch/logo-chimarrao.txt",
     "color": {
       "1": "38;2;225;225;225",
