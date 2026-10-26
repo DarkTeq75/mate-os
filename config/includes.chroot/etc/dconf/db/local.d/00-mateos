@@ -3,7 +3,7 @@ picture-filename='/usr/share/backgrounds/mateos/cuiaetux.png'
 
 [org/mate/desktop/interface]
 gtk-theme='Adwaita-dark'
-icon-theme='Papirus'
+icon-theme='mate'
 
 [org/mate/Marco/general]
 theme='Arc-Dark'

@@ -12,7 +12,6 @@ lightdm
 lightdm-gtk-greeter
 dconf-cli
 arc-theme
-papirus-icon-theme
 network-manager
 network-manager-gnome
 network-manager-openvpn-gnome
@@ -23,9 +22,7 @@ firmware-atheros
 firmware-brcm80211
 firmware-mediatek
 mate-utils
-kolourpaint
 mate-power-manager
 mate-media
 mate-polkit
 caja-open-terminal
-gnome-software
