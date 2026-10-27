@@ -1,0 +1,29 @@
+BEM-VINDO AO MATE!_OS
+
+Este e um sistema leve, feito para estudar, navegar e usar o computador no dia a dia.
+
+== COMO USAR ==
+
+1. Menu Aplicacoes (canto superior esquerdo): abre os programas.
+2. Menu Locais: abre suas pastas (Documentos, Downloads, etc).
+3. Menu Sistema: configuracoes, Gerenciador de tarefas e Desligar.
+
+== COMO DESLIGAR ==
+
+Clique em Sistema (canto superior esquerdo) e depois em Desligar. Uma janela vai abrir: escolha a opcao que voce quer (desligar, reiniciar, suspender ou sair).
+
+== PROGRAMAS ==
+
+Na area de trabalho existe a pasta Apps. Dentro dela ha atalhos para instalar programas com um clique.
+O nome de cada atalho mostra o programa e, entre parenteses, o que ele substitui. Exemplo: LibreOffice (Microsoft Office).
+Dentro de Apps tambem existe a pasta Lojas, com a Loja do Debian e o Gerenciador de pacotes.
+ATENCAO: para instalar qualquer programa e preciso estar conectado a internet.
+
+== OUTRAS COISAS UTEIS ==
+
+Navegar na internet: Firefox ESR, na area de trabalho.
+Ver programas abertos e uso de memoria: Menu Aplicacoes > Sistema > Gerenciador de tarefas.
+Escrever textos simples (como o Bloco de Notas do Windows): Pluma, no menu Aplicacoes.
+Instalar o sistema no computador: clique em Instalar Mate!_OS na area de trabalho.
+
+Bom uso!
