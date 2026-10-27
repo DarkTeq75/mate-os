@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Gerenciador de pacotes (Synaptic)
+Name=Gerenciador de pacotes
 Comment=Lista e instala programas do Debian
 Exec=mate-terminal -x instalar-app synaptic
 Icon=system-software-install

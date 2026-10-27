@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Gerenciador de tarefas
+Comment=Mostra os programas em execucao e o uso de memoria
+Exec=mate-terminal -x htop
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Monitor;

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Loja de aplicativos (GNOME Software)
+Name=Loja do Debian
 Comment=Instala a loja de aplicativos do GNOME
 Exec=mate-terminal -x instalar-app gnome-software gnome-software-plugin-flatpak flatpak
 Icon=system-software-install
