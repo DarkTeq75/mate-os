@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Ativar Flathub (rode depois da loja)
+Comment=Adiciona o repositorio Flathub ao Flatpak
+Exec=mate-terminal -x bash -c 'sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo; read -p "Pressione Enter para fechar "'
+Icon=system-software-install
+Terminal=false
