@@ -1,5 +1,5 @@
 [org/mate/desktop/background]
-picture-filename='/usr/share/backgrounds/mateos/cuiaetux.png'
+picture-filename='/usr/share/backgrounds/mateos/cuiaetuxdark.jpg'
 
 [org/mate/desktop/interface]
 gtk-theme='Adwaita-dark'
@@ -9,7 +9,7 @@ icon-theme='mate'
 theme='Arc-Dark'
 
 [org/mate/panel/general]
-object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'brightness-control']
+object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'brightness-control', 'shutdown-button']
 toplevel-id-list=['top']
 
 [org/mate/panel/objects/clock]
@@ -42,7 +42,7 @@ toplevel-id='top'
 applet-iid='WnckletFactory::WindowListApplet'
 locked=true
 object-type='applet'
-position=239
+position=280
 toplevel-id='top'
 
 [org/mate/panel/toplevels/top]
@@ -67,3 +67,14 @@ color-scheme='prefer-dark'
 
 [org/mate/caja/desktop]
 home-icon-visible=false
+
+[org/mate/panel/toplevels/top/background]
+type='color'
+color='#000000'
+
+[org/mate/panel/objects/shutdown-button]
+object-type='action-applet'
+action-type='shutdown'
+locked=true
+position=239
+toplevel-id='top'
