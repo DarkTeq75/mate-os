@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=DBDesigner (pgModeler)
+Name=pgModeler ("DBDesigner")
 Comment=Modelagem de banco de dados
 Exec=mate-terminal -x instalar-app pgmodeler
 Icon=system-software-install

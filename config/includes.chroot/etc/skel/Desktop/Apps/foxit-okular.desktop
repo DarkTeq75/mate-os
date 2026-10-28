@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Foxit Reader (Okular)
+Name=Okular ("Foxit Reader")
 Comment=Leitor de PDF
 Exec=mate-terminal -x instalar-app okular
 Icon=system-software-install

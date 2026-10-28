@@ -1,5 +1,5 @@
 [org/mate/desktop/background]
-picture-filename='/usr/share/backgrounds/mateos/papel-de-parede-cuia-debian.png'
+picture-filename='/usr/share/backgrounds/mateos/cuiaetuxdark.jpg'
 
 [org/mate/desktop/interface]
 gtk-theme='Adwaita-dark'
@@ -9,7 +9,7 @@ icon-theme='mate'
 theme='Arc-Dark'
 
 [org/mate/panel/general]
-object-id-list=['menu-bar', 'notification-area', 'clock', 'object-0', 'brightness-control', 'shutdown-button']
+object-id-list=['brisk-menu', 'notification-area', 'clock', 'object-0', 'brightness-control', 'shutdown-button']
 toplevel-id-list=['top']
 
 [org/mate/panel/objects/clock]
@@ -23,12 +23,6 @@ toplevel-id='top'
 [org/mate/panel/objects/clock/prefs]
 custom-format=''
 format='24-hour'
-
-[org/mate/panel/objects/menu-bar]
-locked=true
-object-type='menu-bar'
-position=0
-toplevel-id='top'
 
 [org/mate/panel/objects/notification-area]
 applet-iid='NotificationAreaAppletFactory::NotificationArea'
@@ -77,4 +71,11 @@ object-type='action-applet'
 action-type='shutdown'
 locked=true
 position=239
+toplevel-id='top'
+
+[org/mate/panel/objects/brisk-menu]
+applet-iid='BriskMenuFactory::BriskMenu'
+locked=true
+object-type='applet'
+position=0
 toplevel-id='top'

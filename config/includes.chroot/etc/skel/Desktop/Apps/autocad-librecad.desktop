@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=AutoCAD (LibreCAD)
+Name=LibreCAD ("AutoCAD")
 Comment=Desenho tecnico 2D
 Exec=mate-terminal -x instalar-app librecad
 Icon=system-software-install

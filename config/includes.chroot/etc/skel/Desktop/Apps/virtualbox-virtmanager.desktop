@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=VirtualBox (Virt-Manager)
+Name=Virt-Manager ("VirtualBox")
 Comment=Maquinas virtuais com interface grafica
 Exec=mate-terminal -x instalar-app virt-manager libvirt-daemon-system libvirt-clients qemu-system-x86 qemu-utils
 Icon=system-software-install

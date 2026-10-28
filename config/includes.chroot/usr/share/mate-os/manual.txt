@@ -1,0 +1,119 @@
+==================================================================
+                      BEM-VINDO AO MATE!_OS
+==================================================================
+
+Um sistema leve, feito para estudar, navegar e usar o computador
+no dia a dia, sem pagar licença.
+
+
+------------------------------------------------------------------
+1. ANTES DE COMEÇAR
+------------------------------------------------------------------
+
+Se você está usando o Mate!_OS pelo pendrive, está no MODO DE TESTE.
+Nesse modo, NADA do que você salvar fica guardado: ao desligar, tudo
+é apagado. Para guardar seus arquivos, salve em um pendrive à parte
+ou instale o sistema no computador (veja a seção 6).
+
+
+------------------------------------------------------------------
+2. COMO ENCONTRAR AS COISAS
+------------------------------------------------------------------
+
+Na barra preta, no topo da tela:
+
+  Aplicações   Todos os programas instalados, separados por grupo.
+  Locais       Suas pastas: Pasta pessoal, Documentos, Downloads...
+  Sistema      Configurações do computador e a opção Desligar.
+
+Na área de trabalho:
+
+  Apps         Atalhos para instalar programas (veja a seção 5).
+  Firefox ESR  Navegador de internet.
+
+
+------------------------------------------------------------------
+3. COMO DESLIGAR
+------------------------------------------------------------------
+
+Clique em Sistema e depois em Desligar. Escolha no menu a opção
+que você quer.
+
+
+------------------------------------------------------------------
+4. COMO CONECTAR NA INTERNET
+------------------------------------------------------------------
+
+No canto superior direito da tela fica o ícone de rede. Clique nele,
+escolha o Wi-Fi e digite a senha.
+
+Instalar programas e navegar exigem internet.
+
+
+------------------------------------------------------------------
+5. PROGRAMAS
+------------------------------------------------------------------
+
+O sistema vem leve, só com o essencial. Os outros programas você
+instala quando precisar:
+
+  1. Abra a pasta Apps, na área de trabalho.
+  2. Clique no atalho do programa que você quer.
+  3. Uma janela preta abre e instala sozinha. Quando terminar,
+     aperte Enter para fechar.
+  4. O programa passa a aparecer no menu Aplicações.
+
+O nome de cada atalho mostra o programa e, entre parênteses, o que
+ele substitui. Exemplo: "LibreOffice (Microsoft Office)".
+
+Atalhos que dizem "site oficial" não instalam: eles abrem a página
+do programa no navegador (Eclipse, NetBeans, Visual Studio Code e
+Android Studio).
+
+Dentro de Apps há também a pasta Lojas, com a Loja do Debian e o
+Gerenciador de pacotes, para escolher programas em uma janela.
+
+
+------------------------------------------------------------------
+6. INSTALAR O MATE!_OS NO COMPUTADOR
+------------------------------------------------------------------
+
+Clique em "Instalar Mate!_OS", na área de trabalho, e siga as etapas.
+Você vai criar seu usuário e sua senha.
+
+ATENÇÃO: dependendo da opção de disco que você escolher, a instalação
+pode apagar tudo o que está no computador. Faça uma cópia dos seus
+arquivos antes.
+
+
+------------------------------------------------------------------
+7. O QUE USAR NO LUGAR DO QUE VOCÊ CONHECE DO WINDOWS
+------------------------------------------------------------------
+
+  No Windows                      No Mate!_OS
+  ------------------------------  ---------------------------------
+  Microsoft Edge / Chrome         Firefox ESR
+  Bloco de Notas                  Pluma (menu Aplicações)
+  Gerenciador de Tarefas          Gerenciador de tarefas
+  Explorador de Arquivos          Menu Locais
+  Loja da Microsoft               Loja do Debian (Apps > Lojas)
+  Microsoft Office                LibreOffice (Apps)
+  Foxit Reader                    Okular (Apps)
+  WinRAR / IZarc                  Ark (Apps)
+  AutoCAD                         LibreCAD (Apps)
+  Dev C++                         Geany (Apps)
+  VirtualBox                      Virt-Manager (Apps)
+  Diagram Designer                Dia (Apps)
+  DBDesigner                      pgModeler (Apps)
+  Oracle                          PostgreSQL (Apps)
+  Astah Community                 Umbrello (Apps)
+
+Os programas marcados com (Apps) são instalados pelos atalhos da
+pasta Apps.
+
+O Gerenciador de tarefas abre em uma janela preta e mostra o que
+está rodando e quanto de memória cada programa usa. Para sair,
+aperte a tecla Q.
+
+
+Bom uso!

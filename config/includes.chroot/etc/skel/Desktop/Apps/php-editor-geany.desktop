@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Editor PHP (Geany)
+Name=Geany ("Notepad++")
 Comment=Editor leve com suporte a PHP
 Exec=mate-terminal -x instalar-app geany
 Icon=system-software-install

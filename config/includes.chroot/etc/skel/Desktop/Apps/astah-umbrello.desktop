@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Astah Community (Umbrello)
+Name=Umbrello ("Astah Community")
 Comment=Diagramas UML
 Exec=mate-terminal -x instalar-app umbrello
 Icon=system-software-install

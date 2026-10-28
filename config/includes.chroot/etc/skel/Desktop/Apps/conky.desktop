@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Monitor de sistema (Conky)
+Name=Conky ("Rainmeter")
 Comment=Mostra RAM, CPU e rede na area de trabalho
 Exec=mate-terminal -x instalar-app conky-std
 Icon=system-software-install

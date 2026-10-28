@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Oracle (PostgreSQL)
+Name=PostgreSQL ("Oracle Database")
 Comment=Banco de dados relacional livre
 Exec=mate-terminal -x instalar-app postgresql
 Icon=system-software-install
